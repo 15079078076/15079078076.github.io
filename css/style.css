@@ -22,7 +22,7 @@ a:active, a:hover {
 
 #top_bg {
   width: 100%;
-  background: #7bdaae url("sy4-2样式图片/top_bg.jpg") repeat-x;
+  background: #7bdaae url("top_bg.jpg") repeat-x;
 }
 
 #container {
@@ -59,7 +59,7 @@ a:active, a:hover {
   float: left;
   width: 873px;
   height: 216px;
-  background: url("sy4-2样式图片/header_bottom_bg.png") no-repeat;
+  background: url("header_bottom_bg.png") no-repeat;
   margin: 15px 0 0 15px;
 }
 
@@ -121,14 +121,14 @@ a:active, a:hover {
   font-weight: bold;
   font-size: 14px;
   color: #276b45;
-  background: url("sy4-2样式图片/section_1_top_bg.jpg") no-repeat;
+  background: url("section_1_top_bg.jpg") no-repeat;
   margin: 0px;
   padding: 15px 0 0 70px;
 }
 
 #section_1_mid {
   width: 217px;
-  background: url("sy4-2样式图片/section_1_mid_bg.jpg") repeat-y;
+  background: url("section_1_mid_bg.jpg") repeat-y;
   margin: 0;
   padding: 5px 15px;
 }
@@ -157,7 +157,7 @@ a:active, a:hover {
 #section_1_bottom {
     height: 17px;
     width: 100%;
-    background: url("sy4-2样式图片/section_1_bottom_bg.jpg") no-repeat;
+    background: url("section_1_bottom_bg.jpg") no-repeat;
 }
 
 #section-2 {
@@ -172,13 +172,13 @@ a:active, a:hover {
     font-weight: bold;
     font-size: 14px;
     color: #276b45;
-    background: url('sy4-2样式图片/section_2_top_bg.jpg') no-repeat;
+    background: url('section_2_top_bg.jpg') no-repeat;
 	margin: 0;padding: 15px 0 0 70px;
 }
 
 #section_2_mid {
     width: 246px;
-    background: url('sy4-2样式图片/section_2_mid_bg.jpg') repeat-y;
+    background: url('section_2_mid_bg.jpg') repeat-y;
 }
 
 #section_2_mid ul {
@@ -205,7 +205,7 @@ a:active, a:hover {
 #section_2_bottom {
     height: 18px;
     width: 100%;
-    background: url('sy4-2样式图片/section_2_bottom_bg.jpg');
+    background: url('section_2_bottom_bg.jpg');
 }
 
 #content_right {
@@ -243,6 +243,3 @@ a:active, a:hover {
 	color: #7bdaae;
 	text-align: center;
 }
-释义
-摘要
-
